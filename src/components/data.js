@@ -61,9 +61,38 @@ export default[
 
     {
         id : 9,
-        name: 'Priyankesh Vishwakarma',
+        name: 'Rohit Vishwakarma',
         age: 24,
         image: 'https://img.freepik.com/free-photo/comfort-romance-coziness-concept-cheerful-lovely-african-american-girl-yellow-sweater-hugging-herself-embracing-body-as-feeling-comfy-smiling-silly-camera-white-wall_176420-35069.jpg?size=626&ext=jpg&ga=GA1.1.954270653.1728187944&semt=ais_hybrid',
        date: '1999-10-06'
     },
+    {
+        id : 10,
+        name: 'Arun Vishwakarma',
+        age: 32,
+        image: 'https://img.freepik.com/free-photo/comfort-romance-coziness-concept-cheerful-lovely-african-american-girl-yellow-sweater-hugging-herself-embracing-body-as-feeling-comfy-smiling-silly-camera-white-wall_176420-35069.jpg?size=626&ext=jpg&ga=GA1.1.954270653.1728187944&semt=ais_hybrid',
+       date: '1999-02-20'
+    },
+    {
+        id : 11,
+        name: 'Sunita Vishwakarma',
+        age: 38,
+        image: 'https://img.freepik.com/free-photo/comfort-romance-coziness-concept-cheerful-lovely-african-american-girl-yellow-sweater-hugging-herself-embracing-body-as-feeling-comfy-smiling-silly-camera-white-wall_176420-35069.jpg?size=626&ext=jpg&ga=GA1.1.954270653.1728187944&semt=ais_hybrid',
+       date: '1978-02-19'
+    },
+    {
+        id : 12,
+        name: 'Anita Vishwakarma',
+        age: 35,
+        image: 'https://img.freepik.com/free-photo/comfort-romance-coziness-concept-cheerful-lovely-african-american-girl-yellow-sweater-hugging-herself-embracing-body-as-feeling-comfy-smiling-silly-camera-white-wall_176420-35069.jpg?size=626&ext=jpg&ga=GA1.1.954270653.1728187944&semt=ais_hybrid',
+       date: '1963-02-19'
+    },
+    {
+        id : 13,
+        name: 'Neha Vishwakarma',
+        age: 26,
+        image: 'https://img.freepik.com/free-photo/comfort-romance-coziness-concept-cheerful-lovely-african-american-girl-yellow-sweater-hugging-herself-embracing-body-as-feeling-comfy-smiling-silly-camera-white-wall_176420-35069.jpg?size=626&ext=jpg&ga=GA1.1.954270653.1728187944&semt=ais_hybrid',
+       date: '1990-02-20'
+    },
+    
 ]
